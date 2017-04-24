@@ -1,0 +1,52 @@
+/*external style sheet*/
+
+h1 {
+	font: impact;
+	color: red;
+}
+title {
+	font: impact;
+	color: black;
+}
+body {
+	background-color: black;
+	
+	
+}
+p {
+	font: impact;
+	color: white;
+}
+div.Welcome {
+	background-color: navy;
+	width: 200px;
+	padding: 25px;
+	border: 25px darkSlateGray;
+}
+div.choices {
+	background-color: navy;
+	width: 200px;
+	padding: 25px;
+	border: 25px darkSlateGray;
+}
+div.solarSystem img{
+	padding-bottom: .1%;
+	padding-top: .1%;
+	padding-right: 1%;
+	padding-left: 1%;
+	
+	
+	height: 540px;
+	width: 960px;
+}
+
+a:link {
+	color: red;
+	
+}
+a:visited {
+	color: FireBrick;
+}
+a:hovor {
+	color: darkred;
+}
