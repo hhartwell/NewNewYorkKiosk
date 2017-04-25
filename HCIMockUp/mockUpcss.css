@@ -1,8 +1,9 @@
 /*external style sheet*/
 
 h1 {
-	font: impact;
 	color: red;
+    font-size: 80px;
+    font-family: Impact, Monospace;
 }
 title {
 	font: impact;
@@ -10,13 +11,14 @@ title {
 }
 body {
 	background-color: black;
-	
-	
 }
+
 p {
-	font: impact;
-	color: white;
+    color: white;
+    font-size: 40px;
+    font-family: Impact, Monospace;
 }
+
 div.Welcome {
 	background-color: navy;
 	width: 200px;
@@ -24,7 +26,6 @@ div.Welcome {
 	border: 25px darkSlateGray;
 }
 div.choices {
-	background-color: navy;
 	width: 200px;
 	padding: 25px;
 	border: 25px darkSlateGray;
@@ -50,3 +51,8 @@ a:visited {
 a:hovor {
 	color: darkred;
 }
+ h2 {
+    color: red;
+    font-size: 80px;
+    font-family: Impact, Monospace;
+  }
