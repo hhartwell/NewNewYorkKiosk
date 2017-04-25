@@ -17,5 +17,10 @@ div.consolButton{
 	line-height: 100px;
 	background-color: DimGray;	
 }
+p.audioButton {
+    color: white;
+    font-size: 40px;
+    font-family: Impact, Monospace;
+}
   
 
